@@ -1,6 +1,6 @@
 # R Demo
 # install package to your machine (one-time)
-install.packages("tidyverse")
+# install.packages("tidyverse")
 
 #load package for this session of R (every time you want to use tidyverse)
 library(tidyverse)
